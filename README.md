@@ -43,7 +43,8 @@ The dataset used in this project is from [Kaggle's New Plant Diseases Dataset](h
    The project includes a Streamlit-based web interface for real-time plant disease detection.
 
    ![Web App Interface](home_page.jpeg)
-   ![Disease Prediction](prediction_page.jpeg)
+   ![Disease Prediction interface]([prediction_page.jpeg](https://github.com/user-attachments/assets/ca4d65cd-3983-49ce-baf0-936ebb60dc23))
+   ![Disease Prediction result](https://github.com/user-attachments/assets/89296006-1213-4860-a0d1-169720a5ca3b)
 
 ## Requirements
 

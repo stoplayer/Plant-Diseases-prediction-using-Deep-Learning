@@ -39,12 +39,12 @@ The dataset used in this project is from [Kaggle's New Plant Diseases Dataset](h
    - Used categorical crossentropy loss and Adam optimizer
    - Implemented early stopping to prevent overfitting
 
-4. **Web Application**
+
+4.**Video Recording**
    The project includes a Streamlit-based web interface for real-time plant disease detection.
 
-   ![Web App Interface](home_page.jpeg)
-   ![Disease Prediction interface](https://github.com/user-attachments/assets/ca4d65cd-3983-49ce-baf0-936ebb60dc23)
-   ![Disease Prediction result](https://github.com/user-attachments/assets/89296006-1213-4860-a0d1-169720a5ca3b)
+
+   https://github.com/user-attachments/assets/c95afd5d-9126-4509-9d19-52a352668bd1
 
 ## Requirements
 
